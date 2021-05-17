@@ -1,12 +1,12 @@
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
-import NavBar from './components/Navbar/Navbar';
+import NavBar from './components/Navbar';
 import Home from './components/Pages/Home.js';
 import Products from './components/Pages/Products.js';
 import Services from './components/Pages/Services.js';
 import SignUp from './components/Pages/SignUp.js';
-import Footer from './components/Footer/Footer.js';
+import Footer from './components/Footer.js';
 
 function App() {
 	return (
