@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TRVL/static/css/main.5158ff5e.chunk.css",
+    "main.js": "/TRVL/static/js/main.273bde40.chunk.js",
+    "main.js.map": "/TRVL/static/js/main.273bde40.chunk.js.map",
+    "runtime-main.js": "/TRVL/static/js/runtime-main.8a88d1e8.js",
+    "runtime-main.js.map": "/TRVL/static/js/runtime-main.8a88d1e8.js.map",
+    "static/js/2.72893e23.chunk.js": "/TRVL/static/js/2.72893e23.chunk.js",
+    "static/js/2.72893e23.chunk.js.map": "/TRVL/static/js/2.72893e23.chunk.js.map",
+    "index.html": "/TRVL/index.html",
+    "static/css/main.5158ff5e.chunk.css.map": "/TRVL/static/css/main.5158ff5e.chunk.css.map",
+    "static/js/2.72893e23.chunk.js.LICENSE.txt": "/TRVL/static/js/2.72893e23.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TRVL/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a88d1e8.js",
+    "static/js/2.72893e23.chunk.js",
+    "static/css/main.5158ff5e.chunk.css",
+    "static/js/main.273bde40.chunk.js"
+  ]
+}
